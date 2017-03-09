@@ -1,0 +1,97 @@
+body{
+
+
+background: #4CB8C4; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #4CB8C4 , #3CD3AD); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #4CB8C4 , #3CD3AD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.div1{
+  margin-left: auto;
+  width: 250px;
+  height: 250px;
+  float: left;
+  margin-left: 70px;
+  margin-top: 70px;
+  margin-bottom: 60px;
+  background-color: white;
+  border-radius: 25px;
+  text-align: center;
+  clear: both;
+}
+.div2{
+  padding-left: 20px;
+  width: 800px;
+  height: 250px;
+  float: right;
+  margin-right: 100px;
+  margin-top: 70px;
+  margin-bottom: 60px;
+  background-color: white;
+  border-radius: 25px;
+  font-size: 25px;
+}
+.smaller-image {
+    width: 120px;
+    height: 120px;
+
+
+  }
+  .thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 60%;
+
+  }
+  .div3{
+    width: 1080px;
+    height: 180px;
+    margin-right: 100px;
+    padding-top: 20px;
+    padding-left: 10px;
+    background-color: white;
+    border-radius: 25px;
+    clear: both;
+    margin-left: 70px;
+    font-size: 18px;
+    font-size-adjust: auto;
+  }
+
+
+
+.wrapper{
+  width: 1200px;
+  margin: 0 auto;
+}
+.div4{
+  width: 530px;
+  height: 650px;
+  background-color: white;
+  margin-top: 30px;
+  border-radius: 25px;
+  margin-left: 70px;
+  float: left;
+}
+.div5{
+  width: 530px;
+  height: 650px;
+  background-color: white;
+  margin-top: 30px;
+  border-radius: 25px;
+  margin-right: 100px;
+  float: right;
+}
+.Headingpic{
+ width: 490px;
+ height: 300px;
+ margin-left: 20px;
+ margin-top: 20px;
+ margin-right: 20px;
+border-radius: 25px;
+}
+.text{
+ margin-left: 20px;
+ margin-right: 20px;
+
+}
