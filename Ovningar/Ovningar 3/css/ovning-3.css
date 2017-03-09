@@ -1,0 +1,68 @@
+
+
+header{
+  text-align: center;
+  background: black;
+  color: white;
+  height: 150px;
+  align-items: center;
+  overflow: hidden;
+}
+header h1{
+  padding: 50px;
+
+}
+div{
+ padding-top: 50px;
+}
+
+.Shortcut{
+  float: left;
+height: 500px;
+width: 150px;
+border-right: 1px solid black;
+margin-top:
+}
+
+.Text{
+ border-left: black;
+ float: right;
+ height: 300px;
+ width: 1096px;
+ padding-left: 0px auto;
+ padding-top: 50px;
+ }
+ 
+
+footer{
+clear: both;
+background: black;
+color: white;
+height: 70px;
+text-align: center;
+position: fixed;
+bottom: 0;
+width: 100%;
+}
+
+footer p{
+  padding: 26px;
+
+}
+
+.button{
+ color: blue;
+ border: none;
+ text-decoration: none;
+ display: block;
+ padding: 5px 5px;
+ background-color: white;
+
+ }
+
+img{
+  height: 200px;
+  width: 250px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
